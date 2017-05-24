@@ -1,5 +1,6 @@
 ---
 title: javascript老生常谈之闭包
+tags: javascript
 ---
 
 
